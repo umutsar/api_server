@@ -9,3 +9,5 @@ Don't forget port forwarding if you dont use remote server.
 
 If you use remote server as VPS server, upload this files and install Flask library.
 |-> pip install Flask
+
+If you want to try this code, run python file and enter this url '0.0.0.0:1234/get_data'
